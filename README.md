@@ -187,6 +187,8 @@ XR × 時間操作（例：AR ナビによる未来情報の現在表示）= 時
 | [foundations/04-causal-graph.md](foundations/04-causal-graph.md) | 因果グラフ | 入力差分・出力差分の定義・逆算設計プロセス・フィードバックループ |
 | [foundations/05-references.md](foundations/05-references.md) | 参照理論と比較考察 | 構造主義・資本理論・AI時代との接続・対立する思想 |
 | [foundations/06-plasmism.md](foundations/06-plasmism.md) | プラズミズム | 差分との関係能力の4状態・状態遷移モデル・差分統合量・豊かさの条件との対応 |
+| [foundations/07-execution-theory.md](foundations/07-execution-theory.md) | 実行の理論 | 四諦・八正道のStra的解釈・実行の動機論・実行の8軸 |
+| [foundations/08-symbolic-capital.md](foundations/08-symbolic-capital.md) | 象徴資本 | 目標差分水準・設定差分の対応認定権・生成メカニズム・評価圏の権威構造 |
 
 ### 実践（practice/）
 
