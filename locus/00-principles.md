@@ -1,6 +1,4 @@
-<img src="../assets/stra-logo.png" width="32" align="right" />
-
-# 設計原則
+<h1><img src="../assets/stra-logo.png" width="22" style="vertical-align: middle; margin-right: 8px;" />設計原則</h1>
 
 > **v0.6.0** | [← README](../README.md) | [核心命題 →](../sphere/01-difference-axioms.md)
 

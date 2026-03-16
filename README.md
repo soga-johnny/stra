@@ -1,6 +1,4 @@
-<img src="assets/stra-logo.png" width="48" align="right" />
-
-# Stra
+<h1><img src="assets/stra-logo.png" width="28" style="vertical-align: middle; margin-right: 8px;" />Stra</h1>
 
 > テクノロジーと資本が流動する世界において、  
 > 主体が選択の自由を持ちながら資本と接続するための  

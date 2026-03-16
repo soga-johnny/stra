@@ -1,6 +1,4 @@
-<img src="../assets/stra-logo.png" width="32" align="right" />
-
-# 通貨 — 差分流量の追跡単位
+<h1><img src="../assets/stra-logo.png" width="22" style="vertical-align: middle; margin-right: 8px;" />通貨 — 差分流量の追跡単位</h1>
 
 > **v0.8.0** | [← README](../README.md) | [変換レート →](02-conversion-rates.md)
 

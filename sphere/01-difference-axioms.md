@@ -1,6 +1,4 @@
-<img src="../assets/stra-logo.png" width="32" align="right" />
-
-# 核心命題と定式化
+<h1><img src="../assets/stra-logo.png" width="22" style="vertical-align: middle; margin-right: 8px;" />核心命題と定式化</h1>
 
 > **v0.5.0** | [← 設計原則](../locus/00-principles.md) | [← README](../README.md) | [所属と時間 →](02-belonging-median.md)
 
